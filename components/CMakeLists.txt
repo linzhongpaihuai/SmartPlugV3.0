@@ -1,3 +1,3 @@
-set(COMPONENT_SRCDIRS "folder1" "folder2")
+set(COMPONENT_SRCDIRS "app")
 
 register_component()

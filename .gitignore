@@ -7,5 +7,6 @@
 .project
 
 # build files
-build/*
+build
+
 
