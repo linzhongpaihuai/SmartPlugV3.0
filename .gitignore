@@ -1,8 +1,11 @@
+*.o
+*.pyc
 
-
-
-.idea
+# eclipse setting
 .settings
-.output
-.project
 .cproject
+.project
+
+# build files
+build/*
+
